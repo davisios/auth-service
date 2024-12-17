@@ -4,12 +4,6 @@
   <br/>
 </p>
 
-## Features
-
-- Test front-end application
-- Private endpoint for testing
-- Public endpoint for testing
-- ES6-friendly
 
 ## Getting started
 
